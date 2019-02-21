@@ -35,6 +35,7 @@ Body:
 	"clima": "Seco",
 	"terreno": "não conhecido"
 }
+
 GET: Retorna Planeta pelo ID - http://localhost:8080/api/planetas/1
 
 GET: Retorna Planeta pelo Nome - http://localhost:8080/api/planetas/?nome=Marte
